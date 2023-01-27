@@ -126,12 +126,12 @@ $  source bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/jobic10/student-management-using-django.git
+$  git clone (https://github.com/dawitt2327/E-Student-Management-System.git)
 ```
 
 Then, Enter the project
 ```
-$  cd student-management-using-django
+$  cd e-student-managemen-system
 ```
 
 **4. Install Requirements from 'requirements.txt'**
@@ -205,9 +205,8 @@ Password: student
 
 
 ## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
+1. Email - dawitt2327@gmail.com
+2. LinkedIn - [jobic10](https://www.linkedin.com/in/dawit-tadesse-a01646236/)
 
 
 
