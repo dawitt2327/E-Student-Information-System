@@ -1,4 +1,4 @@
-# Student Information System Created Using Django
+# Student Information System 
 This is a Simple Student Information System Developed While I was serving in the Company.
 
 
