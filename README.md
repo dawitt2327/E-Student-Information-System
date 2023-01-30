@@ -1,15 +1,5 @@
-# Student Management System Created Using Django
-This is a Simple Student Management System Developed While Learning Django.
-Feel free to make changes based on your requirements.
-
-[Front-end Template](http://adminlte.io "Admin LTE.io")
-
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
+# Student Information System Created Using Django
+This is a Simple Student Information System Developed While I was serving in the Company.
 
 
 ## Features of this Project
@@ -248,8 +238,6 @@ Password: student
 - [x] Code Restructure - Very Important
 
 
-## Questions I asked While Developing This
-- https://stackoverflow.com/questions/63829896/is-there-a-specific-way-of-adding-apps-in-django/
 
 
 ## Helpful Links
