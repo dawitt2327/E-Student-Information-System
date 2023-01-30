@@ -1,5 +1,5 @@
-# Student Information System 
-This is a Simple Student Information System Developed While I was serving in the Company.
+# Student Information System
+#Student Information System Developed While I was serving in the Company.
 
 
 ## Features of this Project
