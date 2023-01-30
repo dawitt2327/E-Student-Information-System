@@ -1,33 +1,163 @@
 # E-Student Information System
-Student Information System Developed While I was serving in the Company.
+✱ Project:
+
+Developing an E-Student Information System web application for Harambee University which is used as a major software solution that helps with everything from admissions to student success. It facilitates and manages key administrative processes, maintains order and organization within a school's records, and can make universities and colleges more efficient.
+
+Working as: In our Engineering Team I have worked as a Python-Back-End developer for this project.
+
+✱ Responsibilities:
+
+Develop back-end components to improve responsiveness and overall performance.
+Creating and maintaining the server-side components of the system.
+Integrate user-facing elements into each application.
+Test and debug programs.
+Implement security and data protection solutions.
+Assess and prioritize feature requests.
+Coordinate with internal teams to understand user requirements and provide technical solutions.
+
+Styled responsive web design to fit both desktop and mobile views of the browser.
 
 
-## Features of this Project
+✱ Tools & For What I Used them
 
-### A. Admin Users Can
-1. See Overall Summary Charts of Students Performances, Staff Performances, Courses, Subjects, Leave, etc.
-2. Manage Staff (Add, Update and Delete)
-3. Manage Students (Add, Update and Delete)
-4. Manage Course (Add, Update and Delete)
-5. Manage Subjects (Add, Update and Delete)
-6. Manage Sessions (Add, Update and Delete)
-7. View Student Attendance
-8. Review and Reply Student/Staff Feedback
-9. Review (Approve/Reject) Student/Staff Leave
+Developed the web application in Python Frame-work Python, Django, Mysql, PostgreSQL, Bootstrap, and Vs.code.
 
-### B. Staff/Teachers Can
-1. See the Overall Summary Charts related to their students, their subjects, leave status, etc.
-2. Take/Update Students Attendance
-3. Add/Update Result
-4. Apply for Leave
-5. Send Feedback to HOD
 
-### C. Students Can
-1. See the Overall Summary Charts related to their attendance, their subjects, leave status, etc.
-2. View Attendance
-3. View Result
-4. Apply for Leave
-5. Send Feedback to HOD
+I used a python virtual environment to keep dependencies required by different projects separate by creating isolated python virtual environments for them.
+
+I used python Gunicorn to run  Python applications concurrently by running multiple Python processes within a single dyno.
+
+I used psycho-pg for interacting with PostgreSQL from the Python scripting language
+
+I used WhiteNoise for static file serving for the system.
+
+I used the Pillow library for the basic image processing functionality. 
+
+I used requests to send HTTP requests using Python
+
+
+✱  E-Student information system generally has the following 
+    features:
+· Offer an easy-to-use interface for any normal user. Since all the application is predefined, details only need to be filled in the required fields of information; multiple screen inputs are avoided for ease of working.
+· Designed to support large amounts of data and simultaneous access by a number of users.
+· All the required details such as admission information, course, syllabus, account, or fee, which are indexed and classified for easy access.
+· Easy-to-decipher reporting functions and analytics for individuals as well as departments, to facilitate the generation of real-time reports and customized reports.
+· Flexible to operate in multiple ways with easy-to-change operating or processing setups, in tune with current requirements.
+· Easy integration with the other modules that already exist; also offer ingenuity during integration.
+· Capability to support all types of requests for approvals, and designed to generate proper notifications for all sanctions; also support all forms of electronic signatures for the validity of documents.
+· Easy inputting of information to the system, supporting even batch-type uploads from various sections to keep the system up-to-date with current information; such uploads can be made even by desktop users.
+· User preferences allow users to permit the printing of a document or to keep it in electronic format; users also have the facility to update their system preferences, while the system keeps a track of all such changes administered for the records.
+· Scalability to allow easy reconfiguring of the system permitting expansion in data sourcing as well as the introduction of more users.
+· Can store digital images, videos, and other relevant multimedia content.
+· A dependable security system allows only designated users to access all the system capabilities; it offers various levels of security to restrict access to undefined users, and the received information from other sources is subjected to security scans.
+
+
+✱  The goal of the Project: 
+The primary purpose of the Student Information System is to manage, store and track the student's related data in a secure environment. This platform allows the admin to store students' academic records in one place and ensure that only authorized persons can access the information.
+
+
+✱  Outcome: 
+It helps the university to facilitate and manage key administrative processes, maintains order and organization within a school's records, and makes the university and students more efficient.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+✱ Project:
+This Nibret Kutitir System is a Stock Mmanagement and Inventory Demand Forecastings ystem. it is developed for the popular Ethiopian Electronics wholesales trading company Mimi Computers. And the system incorporates managing the stock  and inventory system as well as forecasting the demand of the market using machine learning.
+
+
+Position: : In our Engineering Team I have worked as a Python-Back-End developer and Machine learning Engineer for this project.
+
+
+✱ Responsibilities:
+
+Develop back-end components to improve responsiveness and overall performance.
+Creating and maintaining the server-side components of the system.
+Integrate user-facing elements into each application.
+Test and debug programs.
+Implement security and data protection solutions.
+Assess and prioritize feature requests.
+Coordinate with internal teams to understand user requirements and provide technical solutions.
+
+
+Styled responsive web design to fit both desktop and mobile views of the browser.
+
+
+✱ Tools & For Why I Used them
+
+Developed the web application in Python Frame-work Python, Django, Django-rest-framework, Django_q(for asynchronous processes), Mysql, PostgreSQL.
+
+I used Django to build the server side of the system.
+
+I used Django-rest-framework to build the Web API’s to extend the functionality of a web browser and to enable Server API can extend the functionality of a web server.
+
+I used Django_q for database-related operations.
+I used Pandas  to load the data frame in a 2D array format and to perform analysis tasks in one go.
+I used Numpy arrays to perform large computations in a very short time.
+I used Matplotlib/Seaborn to draw visualizations.
+I used Sklearn to perform tasks from data preprocessing to model development and evaluation.
+I used XGBoost to have the eXtreme Gradient Boosting machine learning algorithm to achieve high accuracy on predictions.
+
+
+ ✱  Features of Nibret Kutitir System
+
+Inventory Management
+Barcoding and Tagging
+Inventory Tracking
+Reporting Tools
+Transfer Management Capabilities
+Store Return Handling
+Inventory Forecasting
+Demand Planning
+
+
+
+ ✱  The goal of the Project: 
+
+
+ Increases productivity and efficiency
+Creates a more organised warehouse
+Helps save time and money
+Improves accuracy of inventory orders
+Keeps customers coming back for more
+
+
+Outcome:
+
+It helps the company to manage its stocks, inventories and to forecast market demand and ensures a business have enough product to fulfill customer orders while not tying up cash in unnecessary inventory. 
+
+
 
 
 ## 📸 ScreenShots
