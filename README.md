@@ -49,13 +49,6 @@ Student Information System Developed While I was serving in the Company.
 
 
 
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
-
-
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com)
 
 
 ## How to Install and Run this project?
